@@ -1,1 +1,1 @@
-EngineeringForge v4. Replace index.html, style.css and assets/logo.png in the GitHub Pages repository. This version includes robust mobile sizing for the logo.
+EngineeringForge v5. Replace index.html, style.css and assets/logo.png in the GitHub Pages repository. This version uses explicit image dimensions in HTML plus CSS !important safeguards to prevent oversized logos on desktop and mobile.
