@@ -1,1 +1,0 @@
-EngineeringForge v6. Content structure: Current Projects + Past Projects. Past work is labelled Professional or Independent rather than separated into competing portfolio sections.
