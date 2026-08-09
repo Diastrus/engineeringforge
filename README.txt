@@ -1,3 +1,4 @@
-EngineeringForge v17. Based on v16.
-Archive category labels changed from PROFESSIONAL / UNIVERSITY to PRODUCT DEVELOPMENT / ACADEMIC.
-Past Projects description changed to: "A selection of engineering work spanning independent projects, product development and academic research."
+EngineeringForge v18. Based on v17.
+Fixed visible archive badge text to PRODUCT DEVELOPMENT and ACADEMIC.
+Corrected BatAnomous/Batanomous terminology to Batonomous.
+Added a LinkedIn profile/contact link in the About section.
