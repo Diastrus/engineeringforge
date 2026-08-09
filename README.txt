@@ -1,1 +1,1 @@
-EngineeringForge v22. Based on v21. Replaced the LinkedIn button/logo/text elements with one single generated CTA image containing the LinkedIn 'in' logo and 'Connect on LinkedIn' text, wrapped in one clickable link to the profile.
+EngineeringForge v23. Based on v22. Fixed mobile navigation: Past, Current Projects and About links are now visible in a second horizontal navigation row below the brand instead of being hidden.
