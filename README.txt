@@ -1,4 +1,1 @@
-EngineeringForge v18. Based on v17.
-Fixed visible archive badge text to PRODUCT DEVELOPMENT and ACADEMIC.
-Corrected BatAnomous/Batanomous terminology to Batonomous.
-Added a LinkedIn profile/contact link in the About section.
+EngineeringForge v21. Based on v20. Increased the supplied LinkedIn logo from 28px to 140px (5x) so it is clearly readable, and adjusted the button padding/spacing accordingly.
