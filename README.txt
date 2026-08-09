@@ -1,1 +1,1 @@
-EngineeringForge v23. Based on v22. Fixed mobile navigation: Past, Current Projects and About links are now visible in a second horizontal navigation row below the brand instead of being hidden.
+EngineeringForge v24. Based on v23. Mobile navigation is now a hamburger menu at the top-right. The EngineeringForge brand/logo remains centered in the mobile header. The dropdown overlays page content and contains Current Projects, Past Projects and About.
