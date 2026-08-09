@@ -1,1 +1,1 @@
-EngineeringForge v24. Based on v23. Mobile navigation is now a hamburger menu at the top-right. The EngineeringForge brand/logo remains centered in the mobile header. The dropdown overlays page content and contains Current Projects, Past Projects and About.
+EngineeringForge v26. Based on v25. Added a compact five-image gallery to the Micro 3D-Printed Tricopter current-project card. The first image is featured larger, with four thumbnails below; clicking an image opens the full image.
