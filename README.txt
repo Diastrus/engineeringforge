@@ -1,1 +1,1 @@
-EngineeringForge v21. Based on v20. Increased the supplied LinkedIn logo from 28px to 140px (5x) so it is clearly readable, and adjusted the button padding/spacing accordingly.
+EngineeringForge v22. Based on v21. Replaced the LinkedIn button/logo/text elements with one single generated CTA image containing the LinkedIn 'in' logo and 'Connect on LinkedIn' text, wrapped in one clickable link to the profile.
