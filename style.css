@@ -25,6 +25,8 @@ section{width:100%;max-width:1180px;margin:0 auto;padding:64px 6%}
 h2{margin:0 0 18px;font-size:36px;line-height:1.15}
 .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
 .card{background:rgba(21,28,36,.96);border:1px solid var(--line);border-radius:15px;padding:24px;min-width:0;overflow:hidden;transition:transform .2s,border-color .2s}
+.card-top{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.year{color:#718092;font-size:12px;font-weight:700;letter-spacing:1.2px;white-space:nowrap}
 .card:hover{transform:translateY(-3px);border-color:#36506c}
 .card h3{font-size:21px;line-height:1.25;margin:16px 0 10px}
 .card p{color:var(--muted);margin:0}
